@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{21077947-C6FD-C0C0-6E09-80BCE579A579}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AutonomousVehicleSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StartMenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AutonomousVehicleBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GhostCarBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EmergencyVehicleBehavior.cs" Line="29" Column="52" />
+      <File FileName="Assets/Scripts/GhostCarSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AutonomousVehicleSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SimulationManager.cs" Line="43" Column="1" />
+      <File FileName="Assets/Scripts/CanvasScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FrontCarDistanceScript.cs" Line="27" Column="10" />
+      <File FileName="Assets/LaneCountScript.cs" Line="24" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a490d85b-73b0-4391-8b4c-3b18f1e26e5c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
