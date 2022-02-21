@@ -18,7 +18,7 @@ Opening the file in Unity hub (OS: Windows or Mac OS)
   1. Extract the zip file
   2. Open unity hub
   3. At the top right, click "Open" -> "Add project from disk"
-  4. Select the extracted file, "add project"
+  4. Select the extracted file then click "add project"
   5. Wait for it to open
   6. Click play button loacated at the top middle portion to run the simulation
   7. DONE!
