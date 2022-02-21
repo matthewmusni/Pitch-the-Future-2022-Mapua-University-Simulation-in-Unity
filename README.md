@@ -1,5 +1,6 @@
 # Pitch-the-Future-2022-Mapua-University-Simulation-in-Unity
-Mapúa University: Team Aguila Simulation in Unity submission for Shell Eco Marathon - Pitch the Future 2022
+Mapúa University: Team Aguila Simulation with Unity 
+Submission for Shell Eco Marathon - Pitch the Future 2022
 
 Instructions to Run the Simulation:
 
